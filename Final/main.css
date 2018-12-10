@@ -5,11 +5,13 @@
 
 body{
     font-family: Impact, Charcoal, sans-serif;
-    color: mintcream;
+    color: darkblue;
     background-color: maroon;
     padding: 0;
     margin: 0;
-    
+    background: url(final_project1.jpg) no-repeat center center fixed;
+    background-size: cover;
+    text-align: center;
 }
 
 a{
